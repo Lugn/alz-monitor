@@ -16,7 +16,7 @@
                     }
                 },
                 "ALZMonitorResourceGroupLocation": {
-                    "value": "eastus"
+                    "value": "swedencentral"
                 }
             }
         },
@@ -602,7 +602,7 @@
                     "value": "deployIfNotExists"
                 },
                 "AFWSNATPortUtilizationAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "AFWSNATPortUtilizationThreshold": {
                     "value": "80"
@@ -620,13 +620,13 @@
                     "value": "deployIfNotExists"
                 },
                 "FirewallHealthAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "FirewallHealthThreshold": {
                     "value": "90"
                 },
                 "activityFWDeleteAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "activityNSGDeleteAlertState": {
                     "value": "true"

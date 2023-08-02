@@ -16,7 +16,7 @@
                     }
                 },
                 "ALZMonitorResourceGroupLocation": {
-                    "value": "eastus"
+                    "value": "swedencentral"
                 }
             }
         },
@@ -56,7 +56,7 @@
                     "value": "deployIfNotExists"
                 },
                 "StorageAccountAvailabilityAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "StorageAccountAvailabilityThreshold": {
                     "value": "90"

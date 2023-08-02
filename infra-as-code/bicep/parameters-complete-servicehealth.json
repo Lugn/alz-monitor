@@ -16,14 +16,14 @@
                     }
                 },
                 "ALZMonitorResourceGroupLocation": {
-                    "value": "eastus"
+                    "value": "swedencentral"
                 }
             }
         },
         "parPolicyAssignmentParametersServiceHealth": {
             "value": {
                 "ALZMonitorActionGroupEmail": {
-                    "value": "action@mail.com"
+                    "value": "tomas.lugn@gmail.com"
                 },
                 "ResHlthUnhealthyAlertState": {
                     "value": "true"

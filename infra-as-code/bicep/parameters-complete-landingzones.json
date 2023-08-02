@@ -16,7 +16,7 @@
                     }
                 },
                 "ALZMonitorResourceGroupLocation": {
-                    "value": "eastus"
+                    "value": "swedencentral"
                 }
             }
         },
@@ -35,7 +35,7 @@
                     "value": "disabled"
                 },
                 "KVRequestAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "KvAvailabilityAlertSeverity": {
                     "value": "1"
@@ -50,7 +50,7 @@
                     "value": "disabled"
                 },
                 "KvAvailabilityAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "KVAvailabilityThreshold": {
                     "value": "20"
@@ -68,7 +68,7 @@
                     "value": "disabled"
                 },
                 "KvLatencyAvailabilityAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "KvLatencyAvailabilityThreshold": {
                     "value": "1000"
@@ -86,13 +86,13 @@
                     "value": "disabled"
                 },
                 "KVCapacityAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "KVCapacityThreshold": {
                     "value": "75"
                 },
                 "activityKVDeleteAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "StorageAccountAvailabilityAlertSeverity": {
                     "value": "1"
@@ -107,7 +107,7 @@
                     "value": "deployIfNotExists"
                 },
                 "StorageAccountAvailabilityAlertState": {
-                    "value": "true"
+                    "value": "false"
                 },
                 "StorageAccountAvailabilityThreshold": {
                     "value": "90"
